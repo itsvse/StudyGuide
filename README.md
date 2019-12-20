@@ -2,20 +2,31 @@
 
 ## .NET
 
+- [3分钟学会制作发布NuGet包](https://down.itsvse.com/k/7e5kao.html)
+- [asp.net mvc 两种方式禁止缓存，no-cache和no-store的区别](https://down.itsvse.com/k/3tlzi8.html)
+- [开发人员必备 DebugView 调试教程](https://down.itsvse.com/k/bfherk.html)
+- [.net/c# SharpZipLib 压缩和解压缩](https://down.itsvse.com/k/dm1vk0.html)
+- [.net/c# 反射非匿名函数 <>f__AnonymousType0 方法](https://down.itsvse.com/k/qmjxts.html)
+- [ValidateAntiForgeryToken 和 AutoValidateAntiforgeryToken 防伪造标记详解](https://down.itsvse.com/k/upiio0.html)
+
 #### ASP.NET Core
 
 - [【实战】ASP.NET Core 中使用 gRPC 通信](https://www.itsvse.com/thread-8834-1-1.html)
 - [asp.net core 中下载 exe 文件返回 404 错误解决方案](https://www.itsvse.com/thread-9026-1-1.html)
 - [.Net Core 中 DateTime 时间在Linux Docker中与Windows时间不一致](https://www.itsvse.com/thread-8862-1-1.html)
+- [ASP.NET Core中如何调整HTTP请求大小的几种方式](https://down.itsvse.com/k/40cdmo.html)
+- [asp.net core 3.1 post 文件 Request body too large 错误解决办法](https://down.itsvse.com/k/9z2uww.html)
 
 ###### 中间件
 
 - [ASP.NET Core 中间件（Middleware）详解](https://www.itsvse.com/thread-8126-1-1.html)
 - [asp.net core 写个中间件来记录接口耗时](https://www.itsvse.com/thread-8079-1-1.html)
+- [基于 asp.net core 3.1 实现反向代理中间件](https://down.itsvse.com/k/gl9d6o.html)
 
 ###### 部署
 
 - [【实战】ASP.NET Core 部署到IIS服务器](https://www.itsvse.com/thread-7838-1-1.html)
+- [ASP.NET MVC 5 之 IIS 10 AlwaysRunning 预加载功能](https://down.itsvse.com/k/mzbshs.html)
 
 ###### 身份认证
 
@@ -58,3 +69,6 @@
 - [如何获取 docker 容器(container)的 ip 地址](https://www.itsvse.com/thread-5115-1-1.html)
 - [Docker 容器设置固定IP教程](https://www.itsvse.com/thread-5116-1-1.html)
 - [Docker版本分为CE和EE区别](https://www.itsvse.com/thread-5013-1-1.html)
+- [unable to delete xx(cannot be forced) - image has dependent child images](https://down.itsvse.com/k/mw3474.html)
+- [【实战】CentOS 7 安装 Docker 19 教程](https://down.itsvse.com/k/lfzjeo.html)
+
