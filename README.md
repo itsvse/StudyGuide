@@ -8,6 +8,7 @@
 - [.net/c# SharpZipLib 压缩和解压缩](https://down.itsvse.com/k/dm1vk0.html)
 - [.net/c# 反射非匿名函数 <>f__AnonymousType0 方法](https://down.itsvse.com/k/qmjxts.html)
 - [ValidateAntiForgeryToken 和 AutoValidateAntiforgeryToken 防伪造标记详解](https://down.itsvse.com/k/upiio0.html)
+- [.net core 判断运行系统环境，环境变量设置](https://down.itsvse.com/k/j35pmo.html)
 
 #### ASP.NET Core
 
@@ -32,6 +33,11 @@
 
 - [asp.net core 注册全局 Authorize 身份认证](https://www.itsvse.com/thread-9022-1-1.html)
 
+###### 页面视图
+
+- [asp.net core TagHelper 属性 asp-append-version](https://down.itsvse.com/k/fxl9fk.html)
+
+
 #### 配置
 
 - [c#应用程序增加xml配置文件](https://www.itsvse.com/thread-3293-1-1.html)
@@ -44,6 +50,12 @@
 - [ASP.NET OutputCache缓存web.config参数配置](https://www.itsvse.com/thread-4917-1-1.html)
 - [如何在ASP.NET的web.config配置文件中添加MIME类型](https://www.itsvse.com/thread-3490-1-1.html)
 - [ConfigurationSection自定义节点信息](https://www.itsvse.com/thread-4998-1-1.html)
+
+## 数据库
+
+#### MySQL
+
+- [MySQL INSERT INTO - “(” is not valid at this position](https://down.itsvse.com/k/41oef4.html)
 
 ## Docker
 
