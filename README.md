@@ -10,6 +10,8 @@
 - [ValidateAntiForgeryToken 和 AutoValidateAntiforgeryToken 防伪造标记详解](https://down.itsvse.com/k/upiio0.html)
 - [.net core 判断运行系统环境，环境变量设置](https://down.itsvse.com/k/j35pmo.html)
 - [【Newtonsoft.Json】json序列化小驼峰格式（属性名首字母小写）](https://down.itsvse.com/k/m4fdvk.html)
+- [【架构篇】.net/c# 基于 Consul 实现分布式配置之Key/Value存储](https://down.itsvse.com/k/zdxr0g.html)
+- [使用 ASP.NET machineKey 加密数据](https://down.itsvse.com/k/i7o5c0.html)
 
 #### ASP.NET Core
 
@@ -18,6 +20,7 @@
 - [.Net Core 中 DateTime 时间在Linux Docker中与Windows时间不一致](https://www.itsvse.com/thread-8862-1-1.html)
 - [ASP.NET Core中如何调整HTTP请求大小的几种方式](https://down.itsvse.com/k/40cdmo.html)
 - [asp.net core 3.1 post 文件 Request body too large 错误解决办法](https://down.itsvse.com/k/9z2uww.html)
+- [asp.net core 3.1 使用 Swagger 生成api说明文档](https://down.itsvse.com/k/cpqn0g.html)
 
 ###### 中间件
 
@@ -29,6 +32,7 @@
 
 - [【实战】ASP.NET Core 部署到IIS服务器](https://www.itsvse.com/thread-7838-1-1.html)
 - [ASP.NET MVC 5 之 IIS 10 AlwaysRunning 预加载功能](https://down.itsvse.com/k/mzbshs.html)
+- [HTTP Error 500.30 - ANCM In-Process Start Failure](https://down.itsvse.com/k/0jp6gw.html)
 
 ###### 身份认证
 
@@ -86,3 +90,6 @@
 - [【实战】CentOS 7 安装 Docker 19 教程](https://down.itsvse.com/k/lfzjeo.html)
 - [Docker Compose 服务编排，配置文件实战教程](https://down.itsvse.com/k/y0y70g.html)
 
+## 其它
+
+- [使用 powershell 生成 <machineKey> 元素](https://down.itsvse.com/k/uriolc.html)
